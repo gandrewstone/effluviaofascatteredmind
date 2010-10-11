@@ -1,0 +1,25 @@
+@P:  Worst Slack : -1.480
+@P:  brevia|pll400.clk400_inferred_clock - Estimated Frequency : 154.3 MHz
+@P:  brevia|pll400.clk400_inferred_clock - Requested Frequency : 200.0 MHz
+@P:  brevia|pll400.clk400_inferred_clock - Estimated Period : 6.480
+@P:  brevia|pll400.clk400_inferred_clock - Requested Period : 5.000
+@P:  brevia|pll400.clk400_inferred_clock - Slack : -1.480
+@P:  System - Estimated Frequency : 575.9 MHz
+@P:  System - Requested Frequency : 200.0 MHz
+@P:  System - Estimated Period : 1.736
+@P:  System - Requested Period : 5.000
+@P:  System - Slack : 3.264
+@P:  Worst Slack : -1.480
+@P:  brevia|pll400.clk400_inferred_clock - Estimated Frequency : 154.3 MHz
+@P:  brevia|pll400.clk400_inferred_clock - Requested Frequency : 200.0 MHz
+@P:  brevia|pll400.clk400_inferred_clock - Estimated Period : 6.480
+@P:  brevia|pll400.clk400_inferred_clock - Requested Period : 5.000
+@P:  brevia|pll400.clk400_inferred_clock - Slack : -1.480
+@P:  System - Estimated Frequency : 575.9 MHz
+@P:  System - Requested Frequency : 200.0 MHz
+@P:  System - Estimated Period : 1.736
+@P:  System - Requested Period : 5.000
+@P:  System - Slack : 3.264
+@P:  Total Area : 26.0
+@P:  Total Area : 0.0
+@P:  CPU Time : 0h:00m:01s

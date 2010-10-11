@@ -1,0 +1,70 @@
+#-- Synopsys, Inc.
+#-- Version D-2009.12L-1
+#-- Project file /me/fpga/starter1/impl/run_options.txt
+#-- Written on Tue Oct  5 20:55:32 2010
+
+
+#project files
+add_file -verilog "/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+add_file -verilog "/me/fpga/starter1/top.v"
+add_file -verilog "/me/fpga/starter1/pll.v"
+
+
+#implementation: "impl"
+impl -add impl -type fpga
+
+#
+#implementation attributes
+
+set_option -vlog_std v2001
+set_option -num_critical_paths 3
+set_option -num_startend_points 0
+set_option -project_relative_includes 1
+set_option -include_path /me/fpga/starter1
+
+#device options
+set_option -technology LATTICE-XP2
+set_option -part LFXP2_5E
+set_option -package M132C
+set_option -speed_grade -5
+set_option -part_companion ""
+
+#compilation/mapping options
+
+# mapper_options
+set_option -frequency 200
+set_option -auto_constrain_io 1
+set_option -write_verilog 1
+set_option -write_vhdl 1
+
+# Lattice XP
+set_option -maxfan 100
+set_option -disable_io_insertion 0
+set_option -retiming 0
+set_option -pipe 0
+set_option -forcegsr false
+set_option -fixgatedclocks 3
+set_option -fixgeneratedclocks 3
+set_option -update_models_cp 1
+
+# NFilter
+set_option -popfeed 0
+set_option -constprop 0
+set_option -createhierarchy 0
+
+# sequential_optimization_options
+set_option -symbolic_fsm_compiler 1
+
+# Compiler Options
+set_option -compiler_compatible 1
+set_option -resource_sharing 1
+
+#automatic place and route (vendor) options
+set_option -write_apr_constraint 0
+
+#set result format/file last
+project -result_file "./starter1_impl.edi"
+
+#set log file 
+set_option log_file "/me/fpga/starter1/impl/starter1_impl.srf" 
+impl -active "impl"

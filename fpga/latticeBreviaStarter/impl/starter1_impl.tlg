@@ -1,0 +1,16 @@
+Selecting top level module brevia
+@N: CG364 :"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v":1302:7:1302:9|Synthesizing module VLO
+
+@N: CG364 :"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v":291:7:291:12|Synthesizing module EPLLD1
+
+@N: CG364 :"/me/fpga/starter1/pll.v":8:7:8:9|Synthesizing module pll
+
+@N: CG364 :"/me/fpga/starter1/top.v":8:7:8:12|Synthesizing module brevia
+
+@W: CL138 :"/me/fpga/starter1/top.v":69:1:69:6|Register 'low' is only assigned 0 or its old value; the register will be removed
+@W: CL189 :"/me/fpga/starter1/top.v":69:1:69:6|Register bit high is always 1, optimizing ...
+@W: CL246 :"/me/fpga/starter1/top.v":11:39:11:40|Input port bits 7 to 5 of sw[7:0] are unused
+
+@W: CL246 :"/me/fpga/starter1/top.v":15:19:15:20|Input port bits 4 to 3 of j4[41:0] are unused
+
+@W: CL158 :"/me/fpga/starter1/top.v":16:19:16:21|Inout j24 is unused
