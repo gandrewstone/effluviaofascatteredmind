@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject title="starter1" device="LFXP2-5E-5TN144C" default_implementation="impl">
+    <Implementation title="impl" dir="impl" description="impl" default_strategy="Strategy1">
+        <Source name="top.v" type="Verilog"/>
+        <Source name="pll.ipx" type="IPX_Module"/>
+        <Source name="starter1.lpf" type="Logic Preference"/>
+    </Implementation>
+    <Strategy name="Strategy1" file="Strategy1.sty"/>
+</BaliProject>

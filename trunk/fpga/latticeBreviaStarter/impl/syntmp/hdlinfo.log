@@ -1,0 +1,1032 @@
+$ Start of Compile
+#Sun Oct  3 16:22:18 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 16:22:18 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 16:27:10 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 16:27:10 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 17:36:55 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 17:36:55 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 17:55:37 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 17:55:37 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:00:53 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:00:53 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:03:18 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:03:18 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:04:55 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CG426 :"/me/fpga/starter1/top.v":39:5:39:13|Assignment target sram_data should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":40:2:40:10|Assignment target sram_addr should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":41:2:41:9|Assignment target sram_cen should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":42:2:42:9|Assignment target sram_oen should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":43:2:43:9|Assignment target sram_wen should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":44:2:44:8|Assignment target uart_tx should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":45:2:45:9|Assignment target spi_sclk should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":46:2:46:8|Assignment target spi_csn should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":47:2:47:9|Assignment target spi_mosi should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":48:2:48:3|Assignment target wn should be of type reg, genvar
+@E: CG426 :"/me/fpga/starter1/top.v":49:2:49:6|Assignment target holdn should be of type reg, genvar
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:04:55 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:06:02 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CG342 :"/me/fpga/starter1/top.v":40:5:40:15|Expecting target variable, got sram_data_r - Misspelling?
+@E: CS187 :"/me/fpga/starter1/top.v":62:0:62:8|Expecting endmodule
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:06:03 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:06:19 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:06:19 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:06:53 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":19:16:19:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":30:16:30:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:06:53 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:07:21 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":19:16:19:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":30:16:30:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:07:21 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:08:08 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":19:16:19:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":30:16:30:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:08:08 2010
+
+###########################################################]
+$ Start of Compile
+#Sun Oct  3 18:08:37 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":19:16:19:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":30:16:30:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sun Oct  3 18:08:37 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:38:25 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CG849 :"/me/fpga/starter1/top.v":22:2:22:2|Unexpected ) after , missing port in ANSI list
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:38:25 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:40:54 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CG849 :"/me/fpga/starter1/top.v":22:2:22:2|Unexpected ) after , missing port in ANSI list
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:40:54 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:41:17 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CS187 :"/me/fpga/starter1/top.v":53:21:53:23|Expecting ;
+@E: CS187 :"/me/fpga/starter1/top.v":61:0:61:8|Expecting endmodule
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:41:17 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:41:44 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CS187 :"/me/fpga/starter1/top.v":54:12:54:14|Expecting ;
+@E: CS187 :"/me/fpga/starter1/top.v":62:0:62:8|Expecting endmodule
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:41:44 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:42:14 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CS187 :"/me/fpga/starter1/top.v":54:12:54:14|Expecting ;
+@E: CS187 :"/me/fpga/starter1/top.v":62:0:62:8|Expecting endmodule
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:42:14 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:47:26 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CS187 :"/me/fpga/starter1/top.v":54:12:54:14|Expecting ;
+@E: CS187 :"/me/fpga/starter1/top.v":64:0:64:8|Expecting endmodule
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:47:26 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:47:57 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:47:57 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:48:14 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:48:14 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:56:04 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CS187 :"/me/fpga/starter1/top.v":57:14:58:6|Expecting ;
+@E: CS187 :"/me/fpga/starter1/top.v":67:0:67:8|Expecting endmodule
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:56:04 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:56:20 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:56:20 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 20:58:57 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 20:58:57 2010
+
+###########################################################]
+$ Start of Compile
+#Mon Oct  4 21:14:34 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Mon Oct  4 21:14:34 2010
+
+###########################################################]
+$ Start of Compile
+#Tue Oct  5 11:47:11 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CG426 :"/me/fpga/starter1/top.v":50:2:50:3|Assignment target j4 should be of type reg, genvar
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 11:47:12 2010
+
+###########################################################]
+$ Start of Compile
+#Tue Oct  5 11:51:18 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 11:51:18 2010
+
+###########################################################]
+$ Start of Compile
+#Tue Oct  5 13:36:02 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 13:36:02 2010
+
+###########################################################]
+$ Start of Compile
+#Tue Oct  5 13:40:35 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@E: CG342 :"/me/fpga/starter1/top.v":56:2:56:6|Expecting target variable, got j4out - Misspelling?
+@E: CS187 :"/me/fpga/starter1/top.v":78:0:78:8|Expecting endmodule
+@I::"/me/fpga/starter1/pll.v"
+@W: CS133 :"/me/fpga/starter1/pll.v":8:49:8:59|ignoring property syn_noprune
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+@W: CS133 :"/me/fpga/starter1/pll.v":37:26:37:37|ignoring property CLKOK_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":38:26:38:37|ignoring property CLKOS_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":39:26:39:44|ignoring property FREQUENCY_PIN_CLKOP
+@W: CS133 :"/me/fpga/starter1/pll.v":40:26:40:37|ignoring property CLKOP_BYPASS
+@W: CS133 :"/me/fpga/starter1/pll.v":41:26:41:35|ignoring property PHASE_CNTL
+@W: CS133 :"/me/fpga/starter1/pll.v":42:26:42:29|ignoring property DUTY
+@W: CS133 :"/me/fpga/starter1/pll.v":43:26:43:33|ignoring property PHASEADJ
+@W: CS133 :"/me/fpga/starter1/pll.v":44:26:44:43|ignoring property FREQUENCY_PIN_CLKI
+@W: CS133 :"/me/fpga/starter1/pll.v":45:26:45:44|ignoring property FREQUENCY_PIN_CLKOK
+@W: CS133 :"/me/fpga/starter1/pll.v":46:26:46:34|ignoring property CLKOK_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":47:26:47:34|ignoring property CLKOP_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":48:26:48:34|ignoring property CLKFB_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":49:26:49:33|ignoring property CLKI_DIV
+@W: CS133 :"/me/fpga/starter1/pll.v":50:26:50:28|ignoring property FIN
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 13:40:35 2010
+
+###########################################################]
+$ Start of Compile
+#Tue Oct  5 13:41:01 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 13:41:01 2010
+
+###########################################################]
+$ Start of Compile
+#Tue Oct  5 17:31:31 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 17:31:31 2010
+
+###########################################################]
+$ Start of Compile
+#Tue Oct  5 20:55:30 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Compiler Error <vermain.c:861 Unknown command line switch -fileorder>
+@E:Internal Error in c_ver
+Stack trace
+===========
+
+Please open a web case about this problem. A Synopsys CAE will then contact you.
+Instructions to open a web-case:
+	1.  Go to the Synopsys support web site, https://solvnet.synopsys.com.
+	2.  Login with you user name and  password. If you do not have an account, please register and set it up.
+	3.  Click the  'Enter A Call' link.
+	4.  Provide a detailed description of the problem, and fill in all  required fields.
+	5.  Attach any test cases or archived project files required to reproduce the problem.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 20:55:30 2010
+
+###########################################################]

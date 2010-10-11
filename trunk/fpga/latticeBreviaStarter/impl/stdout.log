@@ -1,0 +1,70 @@
+line 3895, col 57: Option set not found: vcs_actel_smart_fusion_lib.
+
+
+Running in Lattice mode
+
+
+Starting:    /usr/local/diamond/1.0/synpbase/linux/mbin/synbatch
+Install:     /usr/local/diamond/1.0/synpbase
+Date:        Tue Oct  5 20:55:29 2010
+Version:     D-2009.12L-1
+
+
+Arguments:   -product synplify_pro  -batch starter1_impl_synplify.tcl
+ProductType: synplify_pro
+
+
+
+
+
+
+Running hdl_info_gen on proj_1:impl
+
+
+Generating HDL info...
+Start Time:20:55:30
+
+
+Job: "Compiler" terminated with error status: 3.
+See log file: "/me/fpga/starter1/impl/syntmp/hdlinfo.log"
+Return Code: 3
+Completion Time:20:55:31
+
+compiler exited with errors
+
+Running synthesis on proj_1:impl
+
+log file: "/me/fpga/starter1/impl/starter1_impl.srf"
+
+
+
+Running flow compile_flow ...
+
+
+Running HDL Compiler...
+Start Time:20:55:34
+
+
+Compiler Completed
+Return Code: 0
+Completion Time:20:55:35
+
+
+Running flow synthesis ...
+
+Launching mapper in pro mode
+
+
+Running LATTICE-XP2 Mapper...
+Start Time:20:55:40
+
+
+LATTICE-XP2 Mapper Completed with warnings
+Return Code: 1
+Completion Time:20:55:42
+
+TCL script complete: "starter1_impl_synplify.tcl"
+
+exit status=0
+
+

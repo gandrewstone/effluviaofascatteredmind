@@ -1,0 +1,65 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Tue Oct  5 20:57:43 2010 *
+NOTE DESIGN NAME: brevia *
+NOTE DEVICE NAME: LFXP2-5E-5TQFP144 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS j4_0 : 120 : out *
+NOTE PINS led_0 : 46 : out *
+NOTE PINS clk_in : 21 : in *
+NOTE PINS j4_41 : 124 : out *
+NOTE PINS j4_40 : 70 : out *
+NOTE PINS j4_39 : 121 : out *
+NOTE PINS j4_38 : 122 : out *
+NOTE PINS j4_37 : 53 : out *
+NOTE PINS j4_36 : 107 : out *
+NOTE PINS j4_35 : 87 : out *
+NOTE PINS j4_34 : 108 : out *
+NOTE PINS j4_33 : 88 : out *
+NOTE PINS j4_32 : 73 : out *
+NOTE PINS j4_31 : 89 : out *
+NOTE PINS j4_30 : 74 : out *
+NOTE PINS j4_29 : 90 : out *
+NOTE PINS j4_28 : 77 : out *
+NOTE PINS j4_27 : 91 : out *
+NOTE PINS j4_26 : 71 : out *
+NOTE PINS j4_25 : 110 : out *
+NOTE PINS j4_24 : 78 : out *
+NOTE PINS j4_23 : 92 : out *
+NOTE PINS j4_22 : 113 : out *
+NOTE PINS j4_21 : 93 : out *
+NOTE PINS j4_20 : 114 : out *
+NOTE PINS j4_19 : 94 : out *
+NOTE PINS j4_18 : 115 : out *
+NOTE PINS j4_17 : 96 : out *
+NOTE PINS j4_16 : 116 : out *
+NOTE PINS j4_15 : 98 : out *
+NOTE PINS j4_14 : 109 : out *
+NOTE PINS j4_13 : 119 : out *
+NOTE PINS j4_12 : 61 : out *
+NOTE PINS j4_11 : 99 : out *
+NOTE PINS j4_10 : 62 : out *
+NOTE PINS j4_9 : 100 : out *
+NOTE PINS j4_8 : 65 : out *
+NOTE PINS j4_7 : 101 : out *
+NOTE PINS j4_6 : 66 : out *
+NOTE PINS j4_5 : 102 : out *
+NOTE PINS j4_4 : 69 : out *
+NOTE PINS j4_3 : 103 : out *
+NOTE PINS j4_2 : 72 : out *
+NOTE PINS j4_1 : 104 : out *
+NOTE PINS led_7 : 37 : out *
+NOTE PINS led_6 : 38 : out *
+NOTE PINS led_5 : 39 : out *
+NOTE PINS led_4 : 40 : out *
+NOTE PINS led_3 : 43 : out *
+NOTE PINS led_2 : 44 : out *
+NOTE PINS led_1 : 45 : out *
+NOTE PINS sw_4 : 54 : in *
+NOTE PINS sw_3 : 55 : in *
+NOTE PINS sw_2 : 56 : in *
+NOTE PINS sw_1 : 57 : in *
+NOTE PINS sw_0 : 58 : in *
+NOTE PINS rst_n : 19 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: off *

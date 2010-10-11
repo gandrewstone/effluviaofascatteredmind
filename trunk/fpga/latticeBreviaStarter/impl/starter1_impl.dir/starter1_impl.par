@@ -1,0 +1,22 @@
+PAR: Place And Route Diamond_1.0_Production (529).
+Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
+Copyright (c) 1995 AT&T Corp.   All rights reserved.
+Copyright (c) 1995-2001 Lucent Technologies Inc.  All rights reserved.
+Copyright (c) 2001 Agere Systems   All rights reserved.
+Copyright (c) 2002-2010 Lattice Semiconductor Corporation,  All rights reserved.
+Tue Oct  5 20:57:05 2010
+
+/usr/local/diamond/1.0/ispfpga/bin/lin/par -f starter1_impl.p2t
+starter1_impl_map.ncd starter1_impl.dir starter1_impl.prf
+
+Preference file: starter1_impl.prf.
+
+Level/      Number      Timing      Run         NCD
+Cost [ncd]  Unrouted    Score       Time        Status
+----------  --------    --------    -----       ------------
+5_1   *     0           2474123     29          Complete        
+
+
+* : Design saved.
+
+par done!

@@ -1,0 +1,181 @@
+
+Lattice Place and Route Report for Design "starter1_impl_map.ncd"
+Tue Oct  5 20:57:05 2010
+
+PAR: Place And Route Diamond_1.0_Production (529).
+Command line: /usr/local/diamond/1.0/ispfpga/bin/lin/par -f starter1_impl.p2t
+starter1_impl_map.ncd starter1_impl.dir starter1_impl.prf
+Preference file: starter1_impl.prf.
+Placement level-cost: 5-1.
+Routing Iterations: 6
+
+Loading design for application par from file starter1_impl_map.ncd.
+Design name: brevia
+NCD version: 3.2
+Vendor:      LATTICE
+Device:      LFXP2-5E
+Package:     TQFP144
+Speed:       5
+Loading device for application par from file 'mg5a26x29.nph' in environment: /usr/local/diamond/1.0/ispfpga.
+Package Status:               Final          Version 1.42
+Speed Hardware Data Status:   Final          Version 9.5
+License checked out.
+
+
+Ignore Preference Error(s):  True
+Device utilization summary:
+
+   GSR                1/1           100% used
+   PIO (prelim)      57/174          32% used
+                     57/100          57% bonded
+   SLICE             37/2376          1% used
+
+
+
+Number of Signals: 122
+Number of Connections: 293
+WARNING - par: Placement timing preferences are hard to meet.  However, placement will continue.  Use static timing analysis to identify errors.  For more information, see online help subjects "Place & Route TRACE Report"  or the "TRACE" application.
+
+Pin Constraint Summary:
+   45 out of 57 pins locked (78% locked).
+
+WARNING - par: The input signal "clk_in_c" of PLL instance "pll400/PLLInst_0" may not be able to use the dedicated CLKI input pin, therefore general routing may have to be used for this signal.
+The following 1 signal is selected to use the primary clock routing resources:
+    clk400_c (driver: pll400/PLLInst_0, clk load #: 19)
+
+No signal is selected as DCS clock.
+
+No signal is selected as secondary clock.
+
+Signal async_reset_i is selected as Global Set/Reset.
+.
+Starting Placer Phase 0.
+..........
+Finished Placer Phase 0.  REAL time: 7 secs 
+
+CDP(congestion driven placement) auto mode does not turn on CDP.
+	To force CDP on, set -exp parCDP=1
+Starting Placer Phase 1.
+...............
+Placer score = 1144944.
+Finished Placer Phase 1.  REAL time: 9 secs 
+
+Starting Placer Phase 2.
+.
+Placer score =  1126997
+Finished Placer Phase 2.  REAL time: 9 secs 
+
+
+------------------ Clock Report ------------------
+
+Global Clock Resources:
+  CLK_PIN    : 0 out of 8 (0%)
+  PLL        : 1 out of 2 (50%)
+  DCS        : 0 out of 8 (0%)
+
+Quadrants All (TL, TR, BL, BR) - Global Clocks:
+  PRIMARY "clk400_c" from CLKOP on comp "pll400/PLLInst_0" on PLL site "ULPLL", clk load = 19
+
+  PRIMARY  : 1 out of 8 (12%)
+     DCS   : 0 out of 2 (0%)
+  SECONDARY: 0 out of 4 (0%)
+
+Edge Clocks:
+  No edge clock selected
+
+--------------- End of Clock Report ---------------
+
+
+I/O Usage Summary (final):
+   57 out of 174 (32.8%) PIO sites used.
+   57 out of 100 (57.0%) bonded PIO sites used.
+   Number of PIO comps: 57; differential: 0
+   Number of Vref pins used: 0
+
+I/O Bank Usage Summary:
+----------+------------------+-------+-----------------
+ I/O Bank | Usage            | Vccio |  Vref1 / Vref2
+----------+------------------+-------+-----------------
+    0     |   5 / 20  ( 25%) | 3.3V  |      - / -     
+    1     |   6 / 6   (100%) | 3.3V  |      - / -     
+    2     |  18 / 18  (100%) | 3.3V  |      - / -     
+    3     |   4 / 4   (100%) | 3.3V  |      - / -     
+    4     |   8 / 8   (100%) | 3.3V  |      - / -     
+    5     |  14 / 18  ( 77%) | 3.3V  |      - / -     
+    6     |   0 / 8   (  0%) |    -  |      - / -     
+    7     |   2 / 18  ( 11%) |    -  |      - / -     
+----------+------------------+-------+-----------------
+
+
+DSP Utilization Summary:
+-------------------------------------
+DSP Block #:              1 2 3
+# of MULT36X36B                
+# of MULT18X18B                
+# of MULT18X18MACB             
+# of MULT18X18ADDSUBB          
+# of MULT18X18ADDSUBSUMB       
+# of MULT9X9B                  
+# of MULT9X9ADDSUBB            
+# of MULT9X9ADDSUBSUMB         
+
+Total placer CPU time: 9 secs 
+
+Dumping design to file starter1_impl.dir/5_1.ncd.
+
+0 connections routed; 293 unrouted.
+Starting router resource preassignment
+
+Completed router resource preassignment. Real time: 11 secs 
+
+Congestion Driven Router (CDR) is turned on.
+CDR effort level is set at 0.
+To turn CDR off, please set "-exp parCDR=0" on command line.
+
+Starting iterative routing.
+
+For each routing iteration the number inside the parenthesis is the
+total time (in picoseconds) the design is failing the timing constraints.
+For each routing iteration the router will attempt to reduce this number
+until the number of routing iterations is completed or the value is 0
+meaning the design setup analysis has met timing constraints.
+
+End of iteration 1
+293 successful; 0 unrouted; (2480157) real time: 12 secs 
+Dumping design to file starter1_impl.dir/5_1.ncd.
+End of iteration 2
+293 successful; 0 unrouted; (2479998) real time: 13 secs 
+Dumping design to file starter1_impl.dir/5_1.ncd.
+End of iteration 3
+293 successful; 0 unrouted; (2474123) real time: 14 secs 
+Dumping design to file starter1_impl.dir/5_1.ncd.
+End of iteration 4
+293 successful; 0 unrouted; (2474123) real time: 16 secs 
+End of iteration 5
+293 successful; 0 unrouted; (2474123) real time: 18 secs 
+End of iteration 6
+293 successful; 0 unrouted; (2478095) real time: 23 secs 
+Total CPU time 22 secs 
+Total REAL time: 23 secs 
+Completely routed.
+End of route.  293 routed (100.00%); 0 unrouted.
+Checking DRC ... 
+No errors found.
+
+Timing score: 2474123 
+
+Total REAL time to completion: 29 secs 
+
+Dumping design to file starter1_impl.dir/5_1.ncd.
+
+
+All signals are completely routed.
+
+
+par done!
+
+Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
+Copyright (c) 1995 AT&T Corp.   All rights reserved.
+Copyright (c) 1995-2001 Lucent Technologies Inc.  All rights reserved.
+Copyright (c) 2001 Agere Systems   All rights reserved.
+Copyright (c) 2002-2010 Lattice Semiconductor Corporation,  All rights reserved.

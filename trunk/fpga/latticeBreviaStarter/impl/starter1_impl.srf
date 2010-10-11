@@ -1,0 +1,547 @@
+#Build: Synplify Pro for Lattice D-2009.12L-1, Build 041R, Apr 21 2010
+#install: /usr/local/diamond/1.0/synpbase
+#OS: Linux
+
+#Hostname: xanadu
+
+$ Start of Compile
+#Tue Oct  5 20:55:34 2010
+
+Synopsys Verilog Compiler, version comp500rc, Build 070R, built Apr 20 2010
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+
+@I::"/usr/local/diamond/1.0/synpbase/lib/lucent/xp2.v"
+@I::"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v"
+@I::"/me/fpga/starter1/top.v"
+@I::"/me/fpga/starter1/pll.v"
+@N: CG334 :"/me/fpga/starter1/pll.v":20:16:20:28|Read directive translate_off 
+@N: CG333 :"/me/fpga/starter1/pll.v":31:16:31:27|Read directive translate_on 
+Verilog syntax check successful!
+File /me/fpga/starter1/top.v changed - recompiling
+Selecting top level module brevia
+@N: CG364 :"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v":1302:7:1302:9|Synthesizing module VLO
+
+@N: CG364 :"/usr/local/diamond/1.0/cae_library/synthesis/verilog/xp2.v":291:7:291:12|Synthesizing module EPLLD1
+
+@N: CG364 :"/me/fpga/starter1/pll.v":8:7:8:9|Synthesizing module pll
+
+@N: CG364 :"/me/fpga/starter1/top.v":8:7:8:12|Synthesizing module brevia
+
+@W: CL138 :"/me/fpga/starter1/top.v":69:1:69:6|Register 'low' is only assigned 0 or its old value; the register will be removed
+@W: CL189 :"/me/fpga/starter1/top.v":69:1:69:6|Register bit high is always 1, optimizing ...
+@W: CL246 :"/me/fpga/starter1/top.v":11:39:11:40|Input port bits 7 to 5 of sw[7:0] are unused
+
+@W: CL246 :"/me/fpga/starter1/top.v":15:19:15:20|Input port bits 4 to 3 of j4[41:0] are unused
+
+@W: CL158 :"/me/fpga/starter1/top.v":16:19:16:21|Inout j24 is unused
+@END
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 20:55:34 2010
+
+###########################################################]
+Synopsys Generic Technology Mapper, Version map500lat, Build 128R, Built Apr 22 2010 09:30:40
+Copyright (C) 1994-2010, Synopsys Inc.  All Rights Reserved
+Product Version D-2009.12L-1
+@W: MF252 |Running in 32-bit mode. 64-bit mode was requested but is unavailable.
+@N: MF257 |Gated clock conversion enabled 
+@N|Running in logic synthesis mode without enhanced optimization
+@W: FX469 :|Found undriven nets tri0_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri1_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri2_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri3_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri4_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri5_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri6_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri7_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri8_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri9_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri10_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri11_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri12_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri13_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri14_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri15_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri16_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri17_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri18_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri19_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri20_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri21_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri22_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri23_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri24_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri25_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri26_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri27_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri28_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri29_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri30_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri31_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri32_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri33_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri34_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri35_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri36_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri37_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri38_inst ..., mapper will optimize them. 
+@W: FX469 :|Found undriven nets tri39_inst ..., mapper will optimize them. 
+
+Automatic dissolve at startup in view:work.brevia(verilog) of pll400(pll)
+
+Available hyper_sources - for debug and ip models
+	None Found
+
+Finished RTL optimizations (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+@N:"/me/fpga/starter1/top.v":69:1:69:6|Found counter in view:work.brevia(verilog) inst cnt[24:0]
+Finished factoring (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+
+
+#################### START OF GENERATED CLOCK OPTIMIZATION REPORT ####################[
+
+======================================================================================
+                                Instance:Pin        Generated Clock Optimization Status
+======================================================================================
+                                resetBuf:C              Not Done
+
+
+##################### END OF GENERATED CLOCK OPTIMIZATION REPORT #####################]
+
+Finished gated-clock and generated-clock conversion (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+
+Finished generic timing optimizations - Pass 1 (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Starting Early Timing Optimization (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Finished Early Timing Optimization (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Finished generic timing optimizations - Pass 2 (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Finished preparing to map (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Finished technology mapping (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Pass		 CPU time		Worst Slack		Luts / Registers
+------------------------------------------------------------
+Pass		 CPU time		Worst Slack		Luts / Registers
+------------------------------------------------------------
+   1		0h:00m:00s		    -0.46ns		  20 /        35
+   2		0h:00m:00s		    -0.46ns		  20 /        35
+------------------------------------------------------------
+
+Timing driven replication report
+
+
+
+
+
+Pass		 CPU time		Worst Slack		Luts / Registers
+------------------------------------------------------------
+   1		0h:00m:00s		    -0.46ns		  26 /        35
+
+   2		0h:00m:00s		    -0.46ns		  26 /        35
+   3		0h:00m:00s		    -0.46ns		  26 /        35
+   4		0h:00m:00s		    -0.46ns		  26 /        35
+------------------------------------------------------------
+
+
+
+Pass		 CPU time		Worst Slack		Luts / Registers
+------------------------------------------------------------
+   1		0h:00m:00s		    -0.46ns		  26 /        35
+
+   2		0h:00m:00s		    -0.46ns		  26 /        35
+   3		0h:00m:00s		    -0.46ns		  26 /        35
+   4		0h:00m:00s		    -0.46ns		  26 /        35
+------------------------------------------------------------
+
+Net buffering Report for view:work.brevia(verilog):
+No nets needed buffering.
+
+Finished technology timing optimizations and critical path resynthesis (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+@N|Packing into LUT62
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_0_.un1[0] on net j4[0] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_1_.un1[0] on net j4[1] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_2_.un1[0] on net j4[2] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_5_.un1[0] on net j4[5] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_6_.un1[0] on net j4[6] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_7_.un1[0] on net j4[7] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_8_.un1[0] on net j4[8] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_9_.un1[0] on net j4[9] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_10_.un1[0] on net j4[10] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_11_.un1[0] on net j4[11] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_12_.un1[0] on net j4[12] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_13_.un1[0] on net j4[13] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_14_.un1[0] on net j4[14] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_15_.un1[0] on net j4[15] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_16_.un1[0] on net j4[16] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_17_.un1[0] on net j4[17] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_18_.un1[0] on net j4[18] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_19_.un1[0] on net j4[19] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_20_.un1[0] on net j4[20] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_21_.un1[0] on net j4[21] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_22_.un1[0] on net j4[22] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_23_.un1[0] on net j4[23] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_24_.un1[0] on net j4[24] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_25_.un1[0] on net j4[25] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_26_.un1[0] on net j4[26] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_27_.un1[0] on net j4[27] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_28_.un1[0] on net j4[28] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_29_.un1[0] on net j4[29] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_30_.un1[0] on net j4[30] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_31_.un1[0] on net j4[31] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_32_.un1[0] on net j4[32] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_33_.un1[0] on net j4[33] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_34_.un1[0] on net j4[34] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_35_.un1[0] on net j4[35] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_36_.un1[0] on net j4[36] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_37_.un1[0] on net j4[37] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_38_.un1[0] on net j4[38] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_39_.un1[0] on net j4[39] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_40_.un1[0] on net j4[40] has its enable tied to GND (module brevia) 
+@W: MO111 :"/me/fpga/starter1/top.v":15:19:15:20|tristate driver j4_obuft_41_.un1[0] on net j4[41] has its enable tied to GND (module brevia) 
+@W|Found inferred clock brevia|pll400.clk400_inferred_clock with period 5.00ns. A user-defined clock should be declared on object "n:clk400"
+
+@W: MT246 :"/me/fpga/starter1/pll.v":32:11:32:19|Blackbox EPLLD1 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
+
+
+##### START OF TIMING REPORT #####[
+# Timing Report written on Tue Oct  5 20:55:40 2010
+#
+
+
+Top view:               brevia
+Requested Frequency:    200.0 MHz
+Wire load mode:         top
+Paths requested:        3
+Constraint File(s):    
+@N: MT320 |This timing report estimates place and route data. Please look at the place and route timing report for final timing..
+
+
+Performance Summary 
+*******************
+
+
+Worst slack in design: -1.480
+
+                                        Requested     Estimated     Requested     Estimated                Clock        Clock              
+Starting Clock                          Frequency     Frequency     Period        Period        Slack      Type         Group              
+-------------------------------------------------------------------------------------------------------------------------------------------
+brevia|pll400.clk400_inferred_clock     200.0 MHz     154.3 MHz     5.000         6.480         -1.480     inferred     Inferred_clkgroup_0
+System                                  200.0 MHz     575.9 MHz     5.000         1.736         3.264      system       default_clkgroup   
+===========================================================================================================================================
+
+
+
+
+
+Clock Relationships
+*******************
+
+Clocks                                                                    |    rise  to  rise    |    fall  to  fall   |    rise  to  fall   |    fall  to  rise 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Starting                             Ending                               |  constraint  slack   |  constraint  slack  |  constraint  slack  |  constraint  slack
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+brevia|pll400.clk400_inferred_clock  brevia|pll400.clk400_inferred_clock  |  5.000       -1.480  |  No paths    -      |  No paths    -      |  No paths    -    
+=================================================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+
+Interface Information 
+*********************
+
+
+
+Input Ports: 
+
+Port        Starting            User           Arrival     Required          
+Name        Reference           Constraint     Time        Time         Slack
+            Clock                                                            
+-----------------------------------------------------------------------------
+clk_in      System (rising)     NA             0.000       3.264             
+j24[0]      NA                  NA             NA          NA           NA   
+j24[1]      NA                  NA             NA          NA           NA   
+j24[2]      NA                  NA             NA          NA           NA   
+j24[3]      NA                  NA             NA          NA           NA   
+j24[4]      NA                  NA             NA          NA           NA   
+j24[5]      NA                  NA             NA          NA           NA   
+j24[6]      NA                  NA             NA          NA           NA   
+j24[7]      NA                  NA             NA          NA           NA   
+j24[8]      NA                  NA             NA          NA           NA   
+j24[9]      NA                  NA             NA          NA           NA   
+j24[10]     NA                  NA             NA          NA           NA   
+j24[11]     NA                  NA             NA          NA           NA   
+rst_n       NA                  NA             NA          NA           NA   
+sw[0]       System (rising)     NA             0.000       0.239             
+sw[1]       System (rising)     NA             0.000       0.244             
+sw[2]       System (rising)     NA             0.000       0.244             
+sw[3]       System (rising)     NA             0.000       0.244             
+sw[4]       System (rising)     NA             0.000       2.020             
+sw[5]       NA                  NA             NA          NA           NA   
+sw[6]       NA                  NA             NA          NA           NA   
+sw[7]       NA                  NA             NA          NA           NA   
+=============================================================================
+
+
+Output Ports: 
+
+Port       Starting                                         User           Arrival     Required          
+Name       Reference                                        Constraint     Time        Time         Slack
+           Clock                                                                                         
+---------------------------------------------------------------------------------------------------------
+j4[0]      NA                                               NA             NA          NA           NA   
+j4[1]      NA                                               NA             NA          NA           NA   
+j4[2]      NA                                               NA             NA          NA           NA   
+j4[3]      NA                                               NA             NA          NA           NA   
+j4[4]      NA                                               NA             NA          NA           NA   
+j4[5]      NA                                               NA             NA          NA           NA   
+j4[6]      NA                                               NA             NA          NA           NA   
+j4[7]      NA                                               NA             NA          NA           NA   
+j4[8]      NA                                               NA             NA          NA           NA   
+j4[9]      NA                                               NA             NA          NA           NA   
+j4[10]     NA                                               NA             NA          NA           NA   
+j4[11]     NA                                               NA             NA          NA           NA   
+j4[12]     NA                                               NA             NA          NA           NA   
+j4[13]     NA                                               NA             NA          NA           NA   
+j4[14]     NA                                               NA             NA          NA           NA   
+j4[15]     NA                                               NA             NA          NA           NA   
+j4[16]     NA                                               NA             NA          NA           NA   
+j4[17]     NA                                               NA             NA          NA           NA   
+j4[18]     NA                                               NA             NA          NA           NA   
+j4[19]     NA                                               NA             NA          NA           NA   
+j4[20]     NA                                               NA             NA          NA           NA   
+j4[21]     NA                                               NA             NA          NA           NA   
+j4[22]     NA                                               NA             NA          NA           NA   
+j4[23]     NA                                               NA             NA          NA           NA   
+j4[24]     NA                                               NA             NA          NA           NA   
+j4[25]     NA                                               NA             NA          NA           NA   
+j4[26]     NA                                               NA             NA          NA           NA   
+j4[27]     NA                                               NA             NA          NA           NA   
+j4[28]     NA                                               NA             NA          NA           NA   
+j4[29]     NA                                               NA             NA          NA           NA   
+j4[30]     NA                                               NA             NA          NA           NA   
+j4[31]     NA                                               NA             NA          NA           NA   
+j4[32]     NA                                               NA             NA          NA           NA   
+j4[33]     NA                                               NA             NA          NA           NA   
+j4[34]     NA                                               NA             NA          NA           NA   
+j4[35]     NA                                               NA             NA          NA           NA   
+j4[36]     NA                                               NA             NA          NA           NA   
+j4[37]     NA                                               NA             NA          NA           NA   
+j4[38]     NA                                               NA             NA          NA           NA   
+j4[39]     NA                                               NA             NA          NA           NA   
+j4[40]     NA                                               NA             NA          NA           NA   
+j4[41]     NA                                               NA             NA          NA           NA   
+led[0]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.272       5.000             
+led[1]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[2]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[3]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[4]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[5]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[6]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[7]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+=========================================================================================================
+
+
+##### END OF TIMING REPORT #####]
+
+---------------------------------------
+Resource Usage Report
+Part: lfxp2_5e-5
+
+Register bits: 35 of 4752 (1%)
+PIC Latch:       0
+I/O cells:       57
+
+
+Details:
+CCU2B:          18
+FD1S3AX:        25
+FD1S3BX:        2
+FD1S3JX:        8
+GSR:            1
+IB:             7
+OB:             10
+OBZ:            40
+ORCALUT4:       26
+PUR:            1
+VHI:            1
+VLO:            1
+Finished restoring hierarchy (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Writing Analyst data base /me/fpga/starter1/impl/starter1_impl.srm
+@N: MF203 |Set autoconstraint_io 
+Finished Writing Netlist Databases (Time elapsed 0h:00m:00s; Memory used current: 74MB peak: 76MB)
+
+Writing EDIF Netlist and constraint files
+D-2009.12L-1
+Finished Writing EDIF Netlist and constraint files (Time elapsed 0h:00m:01s; Memory used current: 78MB peak: 78MB)
+
+Writing Verilog Simulation files
+Finished Writing Verilog Simulation files (Time elapsed 0h:00m:01s; Memory used current: 78MB peak: 78MB)
+
+Writing VHDL Simulation files
+Finished Writing VHDL Simulation files (Time elapsed 0h:00m:01s; Memory used current: 78MB peak: 79MB)
+
+Starting Writing Gated Clock Conversion Report (Time elapsed 0h:00m:01s; Memory used current: 78MB peak: 79MB)
+
+@N: MF276 |Gated clock conversion enabled, but no gated clocks found in design 
+Finished Writing Gated Clock Conversion Report (Time elapsed 0h:00m:01s; Memory used current: 78MB peak: 79MB)
+
+Starting Writing Generated Clock Conversion Report (Time elapsed 0h:00m:01s; Memory used current: 78MB peak: 79MB)
+
+@N: MF333 |Generated clock conversion enabled, but no generated clocks found in design 
+Finished Writing Generated Clock Conversion Report (Time elapsed 0h:00m:01s; Memory used current: 78MB peak: 79MB)
+
+
+
+##### START OF TIMING REPORT #####[
+# Timing Report written on Tue Oct  5 20:55:41 2010
+#
+
+
+Top view:               brevia
+Requested Frequency:    200.0 MHz
+Wire load mode:         top
+Paths requested:        3
+Constraint File(s):    
+@N: MT320 |This timing report estimates place and route data. Please look at the place and route timing report for final timing..
+
+
+Performance Summary 
+*******************
+
+
+Worst slack in design: -1.480
+
+                                        Requested     Estimated     Requested     Estimated                Clock        Clock              
+Starting Clock                          Frequency     Frequency     Period        Period        Slack      Type         Group              
+-------------------------------------------------------------------------------------------------------------------------------------------
+brevia|pll400.clk400_inferred_clock     200.0 MHz     154.3 MHz     5.000         6.480         -1.480     inferred     Inferred_clkgroup_0
+System                                  200.0 MHz     575.9 MHz     5.000         1.736         3.264      system       default_clkgroup   
+===========================================================================================================================================
+
+
+
+
+
+Clock Relationships
+*******************
+
+Clocks                                                                    |    rise  to  rise    |    fall  to  fall   |    rise  to  fall   |    fall  to  rise 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Starting                             Ending                               |  constraint  slack   |  constraint  slack  |  constraint  slack  |  constraint  slack
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+brevia|pll400.clk400_inferred_clock  brevia|pll400.clk400_inferred_clock  |  5.000       -1.480  |  No paths    -      |  No paths    -      |  No paths    -    
+=================================================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+
+Interface Information 
+*********************
+
+
+
+Input Ports: 
+
+Port        Starting            User           Arrival     Required          
+Name        Reference           Constraint     Time        Time         Slack
+            Clock                                                            
+-----------------------------------------------------------------------------
+clk_in      System (rising)     NA             0.000       3.264             
+j24[0]      NA                  NA             NA          NA           NA   
+j24[1]      NA                  NA             NA          NA           NA   
+j24[2]      NA                  NA             NA          NA           NA   
+j24[3]      NA                  NA             NA          NA           NA   
+j24[4]      NA                  NA             NA          NA           NA   
+j24[5]      NA                  NA             NA          NA           NA   
+j24[6]      NA                  NA             NA          NA           NA   
+j24[7]      NA                  NA             NA          NA           NA   
+j24[8]      NA                  NA             NA          NA           NA   
+j24[9]      NA                  NA             NA          NA           NA   
+j24[10]     NA                  NA             NA          NA           NA   
+j24[11]     NA                  NA             NA          NA           NA   
+rst_n       NA                  NA             NA          NA           NA   
+sw[0]       System (rising)     NA             0.000       0.239             
+sw[1]       System (rising)     NA             0.000       0.244             
+sw[2]       System (rising)     NA             0.000       0.244             
+sw[3]       System (rising)     NA             0.000       0.244             
+sw[4]       System (rising)     NA             0.000       2.020             
+sw[5]       NA                  NA             NA          NA           NA   
+sw[6]       NA                  NA             NA          NA           NA   
+sw[7]       NA                  NA             NA          NA           NA   
+=============================================================================
+
+
+Output Ports: 
+
+Port       Starting                                         User           Arrival     Required          
+Name       Reference                                        Constraint     Time        Time         Slack
+           Clock                                                                                         
+---------------------------------------------------------------------------------------------------------
+j4[0]      NA                                               NA             NA          NA           NA   
+j4[1]      NA                                               NA             NA          NA           NA   
+j4[2]      NA                                               NA             NA          NA           NA   
+j4[3]      NA                                               NA             NA          NA           NA   
+j4[4]      NA                                               NA             NA          NA           NA   
+j4[5]      NA                                               NA             NA          NA           NA   
+j4[6]      NA                                               NA             NA          NA           NA   
+j4[7]      NA                                               NA             NA          NA           NA   
+j4[8]      NA                                               NA             NA          NA           NA   
+j4[9]      NA                                               NA             NA          NA           NA   
+j4[10]     NA                                               NA             NA          NA           NA   
+j4[11]     NA                                               NA             NA          NA           NA   
+j4[12]     NA                                               NA             NA          NA           NA   
+j4[13]     NA                                               NA             NA          NA           NA   
+j4[14]     NA                                               NA             NA          NA           NA   
+j4[15]     NA                                               NA             NA          NA           NA   
+j4[16]     NA                                               NA             NA          NA           NA   
+j4[17]     NA                                               NA             NA          NA           NA   
+j4[18]     NA                                               NA             NA          NA           NA   
+j4[19]     NA                                               NA             NA          NA           NA   
+j4[20]     NA                                               NA             NA          NA           NA   
+j4[21]     NA                                               NA             NA          NA           NA   
+j4[22]     NA                                               NA             NA          NA           NA   
+j4[23]     NA                                               NA             NA          NA           NA   
+j4[24]     NA                                               NA             NA          NA           NA   
+j4[25]     NA                                               NA             NA          NA           NA   
+j4[26]     NA                                               NA             NA          NA           NA   
+j4[27]     NA                                               NA             NA          NA           NA   
+j4[28]     NA                                               NA             NA          NA           NA   
+j4[29]     NA                                               NA             NA          NA           NA   
+j4[30]     NA                                               NA             NA          NA           NA   
+j4[31]     NA                                               NA             NA          NA           NA   
+j4[32]     NA                                               NA             NA          NA           NA   
+j4[33]     NA                                               NA             NA          NA           NA   
+j4[34]     NA                                               NA             NA          NA           NA   
+j4[35]     NA                                               NA             NA          NA           NA   
+j4[36]     NA                                               NA             NA          NA           NA   
+j4[37]     NA                                               NA             NA          NA           NA   
+j4[38]     NA                                               NA             NA          NA           NA   
+j4[39]     NA                                               NA             NA          NA           NA   
+j4[40]     NA                                               NA             NA          NA           NA   
+j4[41]     NA                                               NA             NA          NA           NA   
+led[0]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.272       5.000             
+led[1]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[2]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[3]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[4]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[5]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[6]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+led[7]     brevia|pll400.clk400_inferred_clock (rising)     NA             4.234       5.000             
+=========================================================================================================
+
+
+##### END OF TIMING REPORT #####]
+
+Mapper successful!
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Tue Oct  5 20:55:41 2010
+
+###########################################################]

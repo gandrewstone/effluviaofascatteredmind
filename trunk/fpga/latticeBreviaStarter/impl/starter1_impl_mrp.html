@@ -1,0 +1,434 @@
+<HTML>
+<HEAD><TITLE>Project Summary</TITLE>
+<STYLE TYPE="text/css">
+<!--
+ body,pre{    font-family:'Courier New', monospace;    color: #000000;    font-size:88%;    background-color: #ffffff;}h1 {    font-weight: bold;    margin-top: 24px;    margin-bottom: 10px;    border-bottom: 3px solid #000;    font-size: 1em;}h2 {    font-weight: bold;    margin-top: 18px;    margin-bottom: 5px;    font-size: 0.90em;}h3 {    font-weight: bold;    margin-top: 12px;    margin-bottom: 5px;    font-size: 0.80em;}p {    font-size:78%;}P.Table {    margin-top: 4px;    margin-bottom: 4px;    margin-right: 4px;    margin-left: 4px;}table{    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    border-collapse: collapse;}th {    font-weight:bold;    padding: 4px;    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    vertical-align:top;    text-align:left;    font-size:78%;}td {    padding: 4px;    border-width: 1px 1px 1px 1px;    border-style: solid solid solid solid;    border-color: black black black black;    vertical-align:top;    font-size:78%;}a {    color:#013C9A;    text-decoration:none;}a:visited {    color:#013C9A;}a:hover, a:active {    text-decoration:underline;    color:#5BAFD4;}.pass{background-color: #00ff00;}.fail{background-color: #ff0000;}.comment{    font-size: 90%;    font-style: italic;}
+-->
+</STYLE>
+</HEAD>
+<PRE><A name="Mrp"></A>               Lattice Mapping Report File for Design 'brevia'
+
+
+<A name="mrp_di"></A><B><U><big>Design Information</big></U></B>
+
+Command line:   map -a LatticeXP2 -p LFXP2-5E -t TQFP144 -s 5 -oc Commercial
+     starter1_impl.ngd -o starter1_impl_map.ncd -pr starter1_impl.prf -mp
+     starter1_impl.mrp /me/fpga/starter1/starter1.lpf
+Target Vendor:  LATTICE
+Target Device:  LFXP2-5ETQFP144
+Target Speed:   5
+Mapper:  mg5a00,  version:  Diamond_1.0_Production (529)
+Mapped on:  10/05/10  20:56:23
+
+
+<A name="mrp_ds"></A><B><U><big>Design Summary</big></U></B>
+   Number of registers:    35
+      PFU registers:    35
+      PIO registers:    0
+   Number of SLICEs:            37 out of  2376 (2%)
+      SLICEs(logic/ROM):        37 out of  1971 (2%)
+      SLICEs(logic/ROM/RAM):     0 out of   405 (0%)
+          As RAM:            0 out of   405 (0%)
+          As Logic/ROM:      0 out of   405 (0%)
+   Number of logic LUT4s:      29
+   Number of distributed RAM:   0 (0 LUT4s)
+   Number of ripple logic:     18 (36 LUT4s)
+   Number of shift registers:   0
+   Total number of LUT4s:      65
+   Number of PIO sites used: 57 out of 100 (57%)
+   Number of PIO FIXEDDELAY:    0
+   Number of DQSDLLs:  0 out of 2 (0%)
+   Number of PLLs:  1 out of 2 (50%)
+   Number of block RAMs:  0 out of 9 (0%)
+   Number of CLKDIVs:  0 out of 2 (0%)
+   Number of GSRs:  1 out of 1 (100%)
+   JTAG used :      No
+   Readback used :  No
+   Oscillator used :  No
+   Startup used :   No
+   Notes:-
+      1. Total number of LUT4s = (Number of logic LUT4s) + 2*(Number of
+     distributed RAMs) + 2*(Number of ripple logic)
+      2. Number of logic LUT4s does not include count of distributed RAM and
+     ripple logic.
+
+   Number Of Mapped DSP Components:
+   --------------------------------
+   MULT36X36B          0
+   MULT18X18B          0
+   MULT18X18MACB       0
+   MULT18X18ADDSUBB    0
+   MULT18X18ADDSUBSUMB 0
+   MULT9X9B            0
+   MULT9X9ADDSUBB      0
+   MULT9X9ADDSUBSUMB   0
+   --------------------------------
+   Number of Used DSP Sites:  0 out of 24 (0 %)
+   Number of clocks:  1
+     Net clk400_c: 19 loads, 19 rising, 0 falling (Driver: pll400/PLLInst_0 )
+
+   Number of Clock Enables:  0
+   Number of local set/reset loads for net async_reset_i merged into GSR:  2
+   Number of LSRs:  1
+     Net reset: 4 loads, 4 LSLICEs
+   Number of nets driven by tri-state buffers:  0
+   Top 10 highest fanout non-clock nets:
+     Net GND: 41 loads
+     Net reset: 30 loads
+     Net sw_c_0: 10 loads
+     Net sw_c_1: 9 loads
+     Net sw_c_2: 9 loads
+     Net sw_c_3: 9 loads
+     Net sw_c_4: 8 loads
+     Net VCC: 6 loads
+     Net N_56: 5 loads
+     Net cnt_23: 3 loads
+
+
+
+
+   Number of warnings:  16
+   Number of errors:    0
+
+
+
+
+<A name="mrp_dwe"></A><B><U><big>Design Errors/Warnings</big></U></B>
+
+WARNING:  Using local reset signal 'async_reset_i' to infer global GSR net.
+WARNING:  IO buffer missing for top level port sw[7:0](7)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port sw[7:0](6)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port sw[7:0](5)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](11)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](10)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](9)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](8)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](7)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](6)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](5)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](4)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](3)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](2)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](1)...logic will be
+     discarded.
+WARNING:  IO buffer missing for top level port j24[11:0](0)...logic will be
+
+     discarded.
+
+
+
+<A name="mrp_ioa"></A><B><U><big>IO (PIO) Attributes</big></U></B>
+
++---------------------+-----------+-----------+------------+------------+
+| IO Name             | Direction | Levelmode | IO         | FIXEDDELAY |
+|                     |           |  IO_TYPE  | Register   |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_0                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_0               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| clk_in              | INPUT     | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_41               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_40               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_39               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_38               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_37               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_36               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_35               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_34               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_33               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_32               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_31               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_30               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_29               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_28               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_27               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_26               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_25               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_24               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_23               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_22               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_21               | OUTPUT    | LVCMOS33  |            |            |
+
++---------------------+-----------+-----------+------------+------------+
+| j4_20               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_19               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_18               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_17               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_16               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_15               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_14               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_13               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_12               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_11               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_10               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_9                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_8                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_7                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_6                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_5                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_4                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_3                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_2                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| j4_1                | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_7               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_6               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_5               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_4               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_3               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_2               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| led_1               | OUTPUT    | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| sw_4                | INPUT     | LVCMOS33  |            |            |
+
++---------------------+-----------+-----------+------------+------------+
+| sw_3                | INPUT     | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| sw_2                | INPUT     | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| sw_1                | INPUT     | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| sw_0                | INPUT     | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+| rst_n               | INPUT     | LVCMOS33  |            |            |
++---------------------+-----------+-----------+------------+------------+
+
+
+
+<A name="mrp_rm"></A><B><U><big>Removed logic</big></U></B>
+
+Signal cnt_cry_0_COUT_23 undriven or does not drive anything - clipped.
+Signal un1_led_cry_0_0_S1 undriven or does not drive anything - clipped.
+Signal un1_led_cry_0_0_S0 undriven or does not drive anything - clipped.
+Signal un1_led_s_7_0_S1 undriven or does not drive anything - clipped.
+Signal un1_led_s_7_0_COUT undriven or does not drive anything - clipped.
+Signal pll400/clk25 undriven or does not drive anything - clipped.
+Signal pll400/CLKOS undriven or does not drive anything - clipped.
+Signal cnt_cry_0_S0_0 undriven or does not drive anything - clipped.
+
+
+
+<A name="mrp_pll"></A><B><U><big>PLL/DLL Summary</big></U></B>
+---------------
+
+PLL 1:                                     Pin/Node Value
+  PLL Instance Name:                                pll400/PLLInst_0
+  PLL Type:                                         EPLLD
+  Input Clock:                             PIN      clk_in_c
+  Output Clock(P):                         NODE     clk400_c
+  Output Clock(S):                                  NONE
+  Output Clock(K):                                  NONE
+  PLL Feedback Signal:                     NODE     pll400/CLKFB_t
+  PLL Reset Signal:                                 NONE
+  PLL K Divider Reset Signal:                       NONE
+  PLL LOCK Signal:                         NODE     clkOk
+  Dynamic Phase Adjust Input 0:                     NONE
+  Dynamic Phase Adjust Input 1:                     NONE
+  Dynamic Phase Adjust Input 2:                     NONE
+  Dynamic Phase Adjust Input 3:                     NONE
+  Dynamic Duty Adjust Input 0:                      NONE
+  Dynamic Duty Adjust Input 1:                      NONE
+  Dynamic Duty Adjust Input 2:                      NONE
+  Dynamic Duty Adjust Input 3:                      NONE
+  Input Clock Frequency (MHz):                      100.0000
+  Output Clock(P) Frequency (MHz):                  400.0000
+  Output Clock(K) Frequency (MHz):                  NA
+  Output Clock(P) Actual Frequency:                 400.0000
+  CLKOP BYPASS:                                     DISABLED
+  CLKOS BYPASS:                                     DISABLED
+  CLKOK BYPASS:                                     DISABLED
+  CLKI Divider:                                     1
+  CLKFB Divider:                                    4
+  CLKOP Divider:                                    2
+
+  CLKOK Divider:                                    16
+  CLKOS Phase Shift (degree):                       0.0
+  CLKOS Duty Cycle (*1/16):                         8
+  Phase_Duty Control:                               STATIC
+  FB_MODE:                                          NONE
+
+
+
+<A name="mrp_asic"></A><B><U><big>ASIC Components</big></U></B>
+---------------
+
+Instance Name: pll400/PLLInst_0
+         Type: EPLLD
+
+
+
+<A name="mrp_gsr"></A><B><U><big>GSR Usage</big></U></B>
+---------
+
+GSR Component:
+   The local reset signal 'async_reset_i' of the design has been inferred as
+        Global Set Reset (GSR). The reset signal used for GSR control is
+        'async_reset_i'.
+
+GSR Property:
+   The design components with GSR property set to ENABLED will respond to global
+        set reset while the components with GSR property set to DISABLED will
+        not.
+
+
+
+<A name="mrp_runtime"></A><B><U><big>Run Time and Memory Usage</big></U></B>
+-------------------------
+
+   Total CPU Time: 0 secs
+   Total REAL Time: 0 secs
+   Peak Memory Usage: 59 MB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
+Copyright (c) 1995
+     AT&T Corp.   All rights reserved.
+Copyright (c) 1995-2001 Lucent
+     Technologies Inc.  All rights reserved.
+Copyright (c) 2001 Agere Systems
+     All rights reserved.
+Copyright (c) 2002-2010 Lattice Semiconductor
+     Corporation,  All rights reserved.
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</PRE></FONT>
+</BODY>
+</HTML>
